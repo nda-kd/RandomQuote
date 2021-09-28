@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RandomQuote/static/css/main.7fdb328f.chunk.css",
+    "main.js": "/RandomQuote/static/js/main.973973a6.chunk.js",
+    "main.js.map": "/RandomQuote/static/js/main.973973a6.chunk.js.map",
+    "runtime-main.js": "/RandomQuote/static/js/runtime-main.975b0ddd.js",
+    "runtime-main.js.map": "/RandomQuote/static/js/runtime-main.975b0ddd.js.map",
+    "static/js/2.18b4802e.chunk.js": "/RandomQuote/static/js/2.18b4802e.chunk.js",
+    "static/js/2.18b4802e.chunk.js.map": "/RandomQuote/static/js/2.18b4802e.chunk.js.map",
+    "static/js/3.afcf9aeb.chunk.js": "/RandomQuote/static/js/3.afcf9aeb.chunk.js",
+    "static/js/3.afcf9aeb.chunk.js.map": "/RandomQuote/static/js/3.afcf9aeb.chunk.js.map",
+    "index.html": "/RandomQuote/index.html",
+    "static/css/main.7fdb328f.chunk.css.map": "/RandomQuote/static/css/main.7fdb328f.chunk.css.map",
+    "static/js/2.18b4802e.chunk.js.LICENSE.txt": "/RandomQuote/static/js/2.18b4802e.chunk.js.LICENSE.txt",
+    "static/media/next.8b18acdd.svg": "/RandomQuote/static/media/next.8b18acdd.svg",
+    "static/media/twitter.d8203e37.svg": "/RandomQuote/static/media/twitter.d8203e37.svg",
+    "static/media/App.css": "/RandomQuote/static/media/wall-lamp.2c2a971d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.975b0ddd.js",
+    "static/js/2.18b4802e.chunk.js",
+    "static/css/main.7fdb328f.chunk.css",
+    "static/js/main.973973a6.chunk.js"
+  ]
+}
