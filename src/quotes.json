@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "Quote": "Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring.",
+      "author": "Seneca"
+    },
+    {
+      "id": "1",
+      "Quote": "There will come a time when you believe everything is finished. That will be the beginning.",
+      "author": "Louis L’Amour"
+    },
+    {
+      "id": "2",
+      "Quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer. ",
+      "author": "Bruce Lee"
+    },
+    {
+      "id": "3",
+      "Quote": "The only difference between a problem and a solution is that people understand the solution.",
+      "author": "Charles F. Kettering"
+    },
+    {
+      "id": "4",
+      "Quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. ",
+      "author": "Scott Adams"
+    },
+    {
+      "id": "5",
+      "Quote": "If you have always done it that way, it is probably wrong.",
+      "author": "Charles F. Kettering"
+    },
+    {
+      "id": "6",
+      "Quote": "The source of wisdom is whatever is going to happen to us today.",
+      "author": "Pema Chödrön"
+    },
+    {
+      "id": "7",
+      "Quote": "The most effective form of learning is practice, not planning.",
+      "author": "James Clear"
+    },
+    {
+      "id": "8",
+      "Quote": "There are risks and costs to action. But they are far less than the long-range risks of comfortable inaction.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "id": "9",
+      "Quote": "The worst loneliness is to not be comfortable with yourself.",
+      "author": "Mark Twain"
+    }
+  ]
+}
