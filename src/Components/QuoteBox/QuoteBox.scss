@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "OpenSansBold";
+  src: url("../../Font/Segoe UI Bold.woff");
+}
+
 #quote-box {
   position: relative;
   display: flex;
@@ -9,11 +14,19 @@
   backdrop-filter: blur(1px) saturate(200%);
   -webkit-backdrop-filter: blur(1px) saturate(200%);
   background-color: #e8f1fd56;
-  border-radius: 12px;
+  border-radius: 12px 12px 0 0;
   border: 1px solid rgba(255, 255, 255, 0.125);
   box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
     rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
     rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  @media screen and (max-width: 550px) {
+    width: 90vw;
+    height: 75vh;
+  }
+  @media screen and (max-width: 550px) {
+    height: 100vh;
+    width: 100vw;
+  }
 }
 
 .quote-wrap {
@@ -24,10 +37,25 @@
   align-items: center;
   justify-content: center;
   padding: 0 10%;
-  //   background-color: red;
+  @media screen and (max-width: 550px) {
+    padding: 15px 32px !important;
+    #text {
+      font-size: 1.7rem !important;
+      font-weight: bolder;
+      text-align: center;
+    }
+    #author-wrap {
+      padding: 0 !important;
+      justify-content: center !important;
+      #author {
+        font-size: 1rem;
+      }
+    }
+  }
   #text {
     font-size: 2rem;
     font-weight: bold;
+    font-family: OpenSansBold;
   }
   #author-wrap {
     display: flex;
@@ -71,6 +99,7 @@
     border: none;
     outline: 0 !important;
     outline-style: none;
+    margin-top: 2px;
     &:after {
       content: "";
       position: absolute;
@@ -96,6 +125,9 @@
     img {
       width: 12px;
       margin-left: 3px;
+    }
+    span {
+      font-family: OpenSansBold;
     }
   }
   #tweet-quote {
