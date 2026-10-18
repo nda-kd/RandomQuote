@@ -88,10 +88,6 @@ Suggestions and feedback are welcome!
 - GitHub: [@nda-kd](https://github.com/nda-kd)
 - Repository: [RandomQuote](https://github.com/nda-kd/RandomQuote)
 
-## 📄 License
-
-No license is specified in this README. If you want others to reuse, modify, or distribute this project, consider adding a suitable [`LICENSE`](LICENSE) file.
-
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
